@@ -1,0 +1,134 @@
+{
+  "services": [
+    {
+      "name": "ClickToRunSvc",
+      "restore": false,
+      "enabled": true
+    },
+    {
+      "name": "TeraCopyService.exe",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "Everything",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "WinFsp.Launcher",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "VMUSBArbService",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "VMware NAT Service",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "VMnetDHCP",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "VMAuthdService",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "ImDskSvc",
+      "restore": true,
+      "enabled": true
+    },
+    {
+      "name": "Spooler",
+      "restore": true,
+      "enabled": true
+    }
+  ],
+  "processes": [
+    {
+      "name": "winpty-agent.exe",
+      "restore": false,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "Ditto.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "msedge.exe",
+      "restore": false,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "AutoHotkeyU64.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "Monitorian.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "ShareX.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "wallpaper64.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "explorer.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "keypirinha-x64.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "Rainmeter.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "Everything.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": true
+    },
+    {
+      "name": "Playnite.DesktopApp.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    },
+    {
+      "name": "wlanext.exe",
+      "restore": true,
+      "enabled": true,
+      "admin": false
+    }
+  ]
+}
